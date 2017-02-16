@@ -1,0 +1,21 @@
+.Inhead{
+  width: 900px;
+  border-right: 1px solid #9e9e9e;
+  border-left: 1px solid #9e9e9e;
+  border-top: 1px solid #9e9e9e;
+
+  margin-top: 41px;
+  text-align: center;
+  line-height: 41px;
+}
+.Inhead2{
+  border-right: 1px solid #9e9e9e;
+}
+.Inhead3{
+  border-bottom: 1px solid #9E9E9E;
+  background-color: whitesmoke;
+}
+.Inhead4{
+  border-bottom: 1px solid #9E9E9E;
+
+}
